@@ -29,3 +29,7 @@ Linux command information and  useful urls
 ## rsync
 1. http://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
 
+
+## batch to shell
+1. http://tldp.org/LDP/abs/html/dosbatch.html
+
