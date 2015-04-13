@@ -3,6 +3,7 @@ Linux command information and  useful urls
 
 # Recommended Blog
 1. http://www.linuxnix.com/
+2. http://www.tecmint.com/
 
 ## find
 1. http://www.linuxnix.com/2012/04/learn-linuxunix-find-command-60-practical-examples-part-ii.html
