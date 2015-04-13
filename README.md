@@ -26,3 +26,6 @@ Linux command information and  useful urls
 ## sed
 1. http://www.grymoire.com/Unix/Sed.html#uh-62g
 
+## rsync
+1. http://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
+
